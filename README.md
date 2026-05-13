@@ -1,0 +1,2 @@
+# AI-Health-Risk-Analytics-From-Prediction-to-Prevention-with-Lifestyle-Clinical-Insights
+AI Health Risk Analytics is a machine learning-based healthcare analytics project designed to predict chronic disease risk using both clinical and lifestyle-related factors. The system transforms raw healthcare data into actionable insights that help identify high-risk individuals at an early stage and support preventive healthcare decisions.
